@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/yalantis-react-test/static/css/main.ae49099c.chunk.css",
+    "main.js": "/yalantis-react-test/static/js/main.c0f86527.chunk.js",
+    "main.js.map": "/yalantis-react-test/static/js/main.c0f86527.chunk.js.map",
+    "runtime-main.js": "/yalantis-react-test/static/js/runtime-main.ef4b6302.js",
+    "runtime-main.js.map": "/yalantis-react-test/static/js/runtime-main.ef4b6302.js.map",
+    "static/js/2.8870d661.chunk.js": "/yalantis-react-test/static/js/2.8870d661.chunk.js",
+    "static/js/2.8870d661.chunk.js.map": "/yalantis-react-test/static/js/2.8870d661.chunk.js.map",
+    "index.html": "/yalantis-react-test/index.html",
+    "static/css/main.ae49099c.chunk.css.map": "/yalantis-react-test/static/css/main.ae49099c.chunk.css.map",
+    "static/js/2.8870d661.chunk.js.LICENSE.txt": "/yalantis-react-test/static/js/2.8870d661.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ef4b6302.js",
+    "static/js/2.8870d661.chunk.js",
+    "static/css/main.ae49099c.chunk.css",
+    "static/js/main.c0f86527.chunk.js"
+  ]
+}
